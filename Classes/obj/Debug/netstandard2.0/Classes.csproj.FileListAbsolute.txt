@@ -1,0 +1,8 @@
+C:\Users\Andrey\Desktop\funny_sheet\CS\Lab_6\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\Andrey\Desktop\funny_sheet\CS\Lab_6\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\Andrey\Desktop\funny_sheet\CS\Lab_6\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\Andrey\Desktop\funny_sheet\CS\Lab_6\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\funny_sheet\CS\Lab_6\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\funny_sheet\CS\Lab_6\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\funny_sheet\CS\Lab_6\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\Andrey\Desktop\funny_sheet\CS\Lab_6\Classes\obj\Debug\netstandard2.0\Classes.pdb
